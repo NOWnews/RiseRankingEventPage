@@ -1,2 +1,7 @@
-# RiseRankingEventPage
-NOWnews 行銷衝榜用的 event page
+# NOWmembers 會員系統
+
+## API
+
+dev: `npm run api`
+
+## WEB
